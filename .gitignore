@@ -47,3 +47,4 @@ webapps/docs/jdbc-pool.xml
 
 # Project exclude paths
 /target/
+catalina-home/conf/Catalina/
